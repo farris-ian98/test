@@ -1,2 +1,3 @@
 now i'm writing more stuff into this test editor. this story is getting longer
 this is me writing text for a new branch called test
+int x = 54;
